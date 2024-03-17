@@ -1,0 +1,42 @@
+.top-container{
+ background-color: rgb(255, 255, 255);
+ margin: 50px 200px 100px 200px;
+ padding: 30px 30px 30px 30px ;
+ border-radius: 10px;
+ font-family: "Young Serif", serif;
+}
+body{
+    background-color: wheat;
+
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+  
+}
+h2{
+   color: #750E21;
+}
+h3{
+    color: #750E21;
+}
+
+.time-container{
+    background-color: #F5EEE6;
+    border-radius: 5px;
+    padding: 10px 0 10px 10px;
+}
+hr{
+    width: 95%;
+    background-color: #F5EEE6;
+    height: 1px;
+    border-style: none;
+}
+.bottom-container{
+    line-height: 30px;
+    font-family: "Outfit", sans-serif;
+    width: 100%;
+}
+p{
+    font-family: "Outfit", sans-serif;
+}
